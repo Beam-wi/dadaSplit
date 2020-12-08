@@ -9,7 +9,7 @@
 
 ### install
 
-Turn .py to exe
+Turn .py to exe.
 
-`cd Path~/main.py`
-`pyinstaller -F -i favicon.ico main.py`
+    cd Path~/main.py
+    pyinstaller -F -i favicon.ico main.py
